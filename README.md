@@ -1,4 +1,4 @@
-[![AVS Origami's Github Stats](https://github-readme-stats.vercel.app/api?username=AVS-Origami&show_icons=true&theme=radical)](https://github.com/AVS-Origami)
+[![AVS Origami's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=AVS-Origami&show_icons=true&theme=calm_pink&exclude_repo=AVS-Origami.github.io,yeti)](https://github.com/AVS-Origami)
 
 <!--
 **AVS-Origami/AVS-Origami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
